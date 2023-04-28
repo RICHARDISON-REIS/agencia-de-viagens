@@ -1,2 +1,2 @@
 # agencia-de-viagens
- página interativa recebendo acesso do usuário com html e css
+ página interativa recebendo dados do usuário e enviando parao back-end com html e css
